@@ -1,0 +1,9 @@
+Package: com.suu.slide2dismiss
+Name: Slide2Dismiss
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Slide right quickly to dismiss bulletin banner
+Maintainer: Suu
+Author: Suu
+Section: Tweaks
