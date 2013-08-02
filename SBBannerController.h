@@ -5,7 +5,7 @@
  * Source: (null)
  */
 
-//modified SBBannerController.h , Can use it directly in this project
+//Can use it directly in this project
 
 @class NSMutableArray, SBBannerDismissOverdueContext, SBBannerAndShadowView, UIView, NSMutableSet;
 
